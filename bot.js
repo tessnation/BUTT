@@ -17,3 +17,7 @@ process.on('message', function(content) {
 });
 
 }
+
+
+// fak yea
+clinet.login(process.evn.BOT_TOKEN);
